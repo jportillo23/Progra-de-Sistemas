@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453330016 source:c:\users\isai\desktop\prograing\programanumero2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
